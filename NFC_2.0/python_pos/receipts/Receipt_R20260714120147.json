@@ -1,0 +1,24 @@
+{
+  "receipt_id": "R20260714120147",
+  "shop_name": "ABC Mini Mart",
+  "date": "14/07/2026",
+  "time": "12:01:47 PM",
+  "products": [
+    {
+      "name": "rice",
+      "price": 5.0,
+      "quantity": 1,
+      "total": 5.0
+    },
+    {
+      "name": "Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real",
+      "price": 20.0,
+      "quantity": 1,
+      "total": 20.0
+    }
+  ],
+  "subtotal": 25.0,
+  "gst_rate": 9.0,
+  "gst_amount": 2.25,
+  "final_total": 27.25
+}

@@ -1,0 +1,18 @@
+{
+  "receipt_id": "R20260713214128",
+  "shop_name": "ABC Mini Mart",
+  "date": "13/07/2026",
+  "time": "09:41:28 PM",
+  "products": [
+    {
+      "name": "fih",
+      "price": 20.0,
+      "quantity": 1,
+      "total": 20.0
+    }
+  ],
+  "subtotal": 20.0,
+  "gst_rate": 9.0,
+  "gst_amount": 1.8,
+  "final_total": 21.8
+}

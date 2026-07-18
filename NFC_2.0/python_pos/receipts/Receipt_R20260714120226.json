@@ -1,0 +1,36 @@
+{
+  "receipt_id": "R20260714120226",
+  "shop_name": "ABC Mini Mart",
+  "date": "14/07/2026",
+  "time": "12:02:26 PM",
+  "products": [
+    {
+      "name": "rice",
+      "price": 5.0,
+      "quantity": 1,
+      "total": 5.0
+    },
+    {
+      "name": "Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real",
+      "price": 20.0,
+      "quantity": 1,
+      "total": 20.0
+    },
+    {
+      "name": "Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real",
+      "price": 75.0,
+      "quantity": 1,
+      "total": 75.0
+    },
+    {
+      "name": "Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real Test Product Not Real",
+      "price": 22.0,
+      "quantity": 1,
+      "total": 22.0
+    }
+  ],
+  "subtotal": 122.0,
+  "gst_rate": 9.0,
+  "gst_amount": 10.98,
+  "final_total": 132.98
+}

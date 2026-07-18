@@ -1,0 +1,18 @@
+{
+  "receipt_id": "R20260707140656",
+  "shop_name": "ABC Mini Mart",
+  "date": "07/07/2026",
+  "time": "02:06:56 PM",
+  "products": [
+    {
+      "name": "Banana",
+      "price": 0.9,
+      "quantity": 2,
+      "total": 1.8
+    }
+  ],
+  "subtotal": 1.8,
+  "gst_rate": 9.0,
+  "gst_amount": 0.16,
+  "final_total": 1.96
+}

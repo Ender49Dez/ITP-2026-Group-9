@@ -1,0 +1,30 @@
+{
+  "receipt_id": "R20260715141424",
+  "shop_name": "Giant",
+  "date": "15/07/2026",
+  "time": "02:14:24 PM",
+  "products": [
+    {
+      "name": "Milk 1L",
+      "price": 3.5,
+      "quantity": 1,
+      "total": 3.5
+    },
+    {
+      "name": "Bread",
+      "price": 2.8,
+      "quantity": 1,
+      "total": 2.8
+    },
+    {
+      "name": "Eggs (10 Pack)",
+      "price": 5.9,
+      "quantity": 1,
+      "total": 5.9
+    }
+  ],
+  "subtotal": 12.2,
+  "gst_rate": 9.0,
+  "gst_amount": 1.1,
+  "final_total": 13.3
+}

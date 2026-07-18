@@ -1,0 +1,24 @@
+{
+  "receipt_id": "R20260714134929",
+  "shop_name": "ABC Mini Mart",
+  "date": "14/07/2026",
+  "time": "01:49:29 PM",
+  "products": [
+    {
+      "name": "fissh",
+      "price": 5.5,
+      "quantity": 1,
+      "total": 5.5
+    },
+    {
+      "name": "Banana",
+      "price": 0.9,
+      "quantity": 1,
+      "total": 0.9
+    }
+  ],
+  "subtotal": 6.4,
+  "gst_rate": 9.0,
+  "gst_amount": 0.58,
+  "final_total": 6.98
+}

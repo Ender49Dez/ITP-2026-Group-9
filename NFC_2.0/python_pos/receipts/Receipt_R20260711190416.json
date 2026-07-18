@@ -1,0 +1,30 @@
+{
+  "receipt_id": "R20260711190416",
+  "shop_name": "ABC Mini Mart",
+  "date": "11/07/2026",
+  "time": "07:04:16 PM",
+  "products": [
+    {
+      "name": "fries",
+      "price": 5.0,
+      "quantity": 1,
+      "total": 5.0
+    },
+    {
+      "name": "fih",
+      "price": 2.0,
+      "quantity": 1,
+      "total": 2.0
+    },
+    {
+      "name": "book",
+      "price": 5.0,
+      "quantity": 1,
+      "total": 5.0
+    }
+  ],
+  "subtotal": 12.0,
+  "gst_rate": 9.0,
+  "gst_amount": 1.08,
+  "final_total": 13.08
+}

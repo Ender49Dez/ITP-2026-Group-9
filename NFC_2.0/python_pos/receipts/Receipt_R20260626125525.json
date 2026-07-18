@@ -1,0 +1,24 @@
+{
+  "receipt_id": "R20260626125525",
+  "shop_name": "ABC Mini Mart",
+  "date": "26/06/2026",
+  "time": "12:55:25 PM",
+  "products": [
+    {
+      "name": "saran",
+      "price": 12.0,
+      "quantity": 1,
+      "total": 12.0
+    },
+    {
+      "name": "12",
+      "price": 12.0,
+      "quantity": 12,
+      "total": 144.0
+    }
+  ],
+  "subtotal": 156.0,
+  "gst_rate": 9.0,
+  "gst_amount": 14.04,
+  "final_total": 170.04
+}

@@ -1,0 +1,48 @@
+{
+  "receipt_id": "R20260707134709",
+  "shop_name": "ABC Mini Mart",
+  "date": "07/07/2026",
+  "time": "01:47:09 PM",
+  "products": [
+    {
+      "name": "Orange",
+      "price": 1.2,
+      "quantity": 10,
+      "total": 12.0
+    },
+    {
+      "name": "Apple",
+      "price": 1.1,
+      "quantity": 1,
+      "total": 1.1
+    },
+    {
+      "name": "Eggs (10 Pack)",
+      "price": 5.9,
+      "quantity": 1,
+      "total": 5.9
+    },
+    {
+      "name": "Bread",
+      "price": 2.8,
+      "quantity": 1,
+      "total": 2.8
+    },
+    {
+      "name": "Milk 1L",
+      "price": 3.5,
+      "quantity": 1,
+      "total": 3.5
+    },
+    {
+      "name": "Banana",
+      "price": 0.9,
+      "quantity": 1,
+      "total": 0.9
+    }
+  ],
+  "subtotal": 26.2,
+  "gst_rate": 9.0,
+  "gst_amount": 2.36,
+  "final_total": 28.56
+}

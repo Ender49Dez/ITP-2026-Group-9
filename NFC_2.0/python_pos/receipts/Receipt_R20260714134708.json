@@ -1,0 +1,18 @@
+{
+  "receipt_id": "R20260714134708",
+  "shop_name": "ABC Mini Mart",
+  "date": "14/07/2026",
+  "time": "01:47:08 PM",
+  "products": [
+    {
+      "name": "dasdas",
+      "price": 214.0,
+      "quantity": 1,
+      "total": 214.0
+    }
+  ],
+  "subtotal": 214.0,
+  "gst_rate": 9.0,
+  "gst_amount": 19.26,
+  "final_total": 233.26
+}

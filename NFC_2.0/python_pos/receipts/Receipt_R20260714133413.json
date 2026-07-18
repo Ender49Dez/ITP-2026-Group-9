@@ -1,0 +1,30 @@
+{
+  "receipt_id": "R20260714133413",
+  "shop_name": "Fairprice",
+  "date": "14/07/2026",
+  "time": "01:34:13 PM",
+  "products": [
+    {
+      "name": "fish",
+      "price": 5.0,
+      "quantity": 1,
+      "total": 5.0
+    },
+    {
+      "name": "water",
+      "price": 3.0,
+      "quantity": 1,
+      "total": 3.0
+    },
+    {
+      "name": "waffle",
+      "price": 2.7,
+      "quantity": 1,
+      "total": 2.7
+    }
+  ],
+  "subtotal": 10.7,
+  "gst_rate": 9.0,
+  "gst_amount": 0.96,
+  "final_total": 11.66
+}

@@ -1,0 +1,18 @@
+{
+  "receipt_id": "R20260626145012",
+  "shop_name": "ABC Mini Mart",
+  "date": "26/06/2026",
+  "time": "02:50:12 PM",
+  "products": [
+    {
+      "name": "dfs",
+      "price": 2.0,
+      "quantity": 1,
+      "total": 2.0
+    }
+  ],
+  "subtotal": 2.0,
+  "gst_rate": 9.0,
+  "gst_amount": 0.18,
+  "final_total": 2.18
+}

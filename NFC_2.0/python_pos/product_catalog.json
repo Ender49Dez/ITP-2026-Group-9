@@ -1,0 +1,32 @@
+[
+  {
+    "barcode": "200001",
+    "name": "Orange",
+    "price": 1.2
+  },
+  {
+    "barcode": "200002",
+    "name": "Apple",
+    "price": 1.1
+  },
+  {
+    "barcode": "200003",
+    "name": "Banana",
+    "price": 0.9
+  },
+  {
+    "barcode": "100001",
+    "name": "Milk 1L",
+    "price": 3.5
+  },
+  {
+    "barcode": "100002",
+    "name": "Bread",
+    "price": 2.8
+  },
+  {
+    "barcode": "100003",
+    "name": "Eggs (10 Pack)",
+    "price": 5.9
+  }
+]

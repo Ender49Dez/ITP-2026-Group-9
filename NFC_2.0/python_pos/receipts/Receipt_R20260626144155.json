@@ -1,0 +1,24 @@
+{
+  "receipt_id": "R20260626144155",
+  "shop_name": "ABC Mini Mart",
+  "date": "26/06/2026",
+  "time": "02:41:55 PM",
+  "products": [
+    {
+      "name": "Milk",
+      "price": 3.5,
+      "quantity": 2,
+      "total": 7.0
+    },
+    {
+      "name": "Bread",
+      "price": 2.8,
+      "quantity": 1,
+      "total": 2.8
+    }
+  ],
+  "subtotal": 9.8,
+  "gst_rate": 9.0,
+  "gst_amount": 0.88,
+  "final_total": 10.68
+}

@@ -1,0 +1,24 @@
+{
+  "receipt_id": "R20260715164622",
+  "shop_name": "Grab",
+  "date": "15/07/2026",
+  "time": "04:46:22 PM",
+  "products": [
+    {
+      "name": "Milk 1L",
+      "price": 3.5,
+      "quantity": 1,
+      "total": 3.5
+    },
+    {
+      "name": "Eggs (10 Pack)",
+      "price": 5.9,
+      "quantity": 2,
+      "total": 11.8
+    }
+  ],
+  "subtotal": 15.3,
+  "gst_rate": 9.0,
+  "gst_amount": 1.38,
+  "final_total": 16.68
+}

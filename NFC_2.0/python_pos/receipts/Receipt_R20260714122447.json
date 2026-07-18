@@ -1,0 +1,30 @@
+{
+  "receipt_id": "R20260714122447",
+  "shop_name": "ABC Mini Mart",
+  "date": "14/07/2026",
+  "time": "12:24:47 PM",
+  "products": [
+    {
+      "name": "rice",
+      "price": 5.0,
+      "quantity": 1,
+      "total": 5.0
+    },
+    {
+      "name": "water",
+      "price": 4.0,
+      "quantity": 1,
+      "total": 4.0
+    },
+    {
+      "name": "chicken",
+      "price": 55.0,
+      "quantity": 1,
+      "total": 55.0
+    }
+  ],
+  "subtotal": 64.0,
+  "gst_rate": 9.0,
+  "gst_amount": 5.76,
+  "final_total": 69.76
+}
